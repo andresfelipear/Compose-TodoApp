@@ -1,3 +1,18 @@
 <resources>
   <string name="app_name">Todo App</string>
+    <string name="delete_all">Delete All</string>
+  <string name="completed_task">Completed</string>
+  <string name="pending_task">Pending</string>
+    <string name="all_tasks_deleted">All Task Deleted</string>
+  <string name="task_deleted">Task Deleted</string>
+  <string name="task_updated">Task Updated</string>
+    <string name="summary_info">You have %s pending task\n</string>
+  <string name="task">Task</string>
+  <string name="category">Category</string>
+  <string name="done">Done</string>
+  <string name="task_name">Task name…</string>
+  <string name="task_description">Task description…</string>
+  <string name="save">Save</string>
+  <string name="task_saved">Task saved</string>
+  <string name="no_tasks">No Task has been created</string>
 </resources>
